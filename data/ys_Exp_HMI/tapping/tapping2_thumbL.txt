@@ -1,0 +1,171 @@
+add device 1: /dev/input/event9
+  name:     "uinput-fpc"
+add device 2: /dev/input/event8
+  name:     "mtk-tpd-s3320-kpd"
+add device 3: /dev/input/event7
+  name:     "mtk-tpd-s3320"
+add device 4: /dev/input/event6
+  name:     "m_step_c_input"
+add device 5: /dev/input/event5
+  name:     "m_mag_input"
+add device 6: /dev/input/event4
+  name:     "m_acc_input"
+add device 7: /dev/input/event3
+  name:     "m_alsps_input"
+add device 8: /dev/input/event2
+  name:     "hwmdata"
+add device 9: /dev/input/event0
+  name:     "ACCDET"
+add device 10: /dev/input/event1
+  name:     "mtk-kpd"
+[  166534.602205] /dev/input/event3: EV_ABS       ABS_X                00000098            
+[  166534.602205] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            
+[  166535.108776] /dev/input/event3: EV_ABS       ABS_X                0000009c            
+[  166535.108776] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            
+[  166535.148620] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   0000d6d9            
+[  166535.148620] /dev/input/event7: EV_KEY       BTN_TOUCH            DOWN                
+[  166535.148620] /dev/input/event7: EV_ABS       ABS_MT_WIDTH_MAJOR   00000005            
+[  166535.148620] /dev/input/event7: EV_ABS       ABS_MT_POSITION_X    000001bf            
+[  166535.148620] /dev/input/event7: EV_ABS       ABS_MT_POSITION_Y    00000515            
+[  166535.148620] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166535.228176] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[  166535.228176] /dev/input/event7: EV_KEY       BTN_TOUCH            UP                  
+[  166535.228176] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166535.606997] /dev/input/event3: EV_ABS       ABS_X                0000009f            
+[  166535.606997] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            
+[  166535.841191] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   0000d6da            
+[  166535.841191] /dev/input/event7: EV_KEY       BTN_TOUCH            DOWN                
+[  166535.841191] /dev/input/event7: EV_ABS       ABS_MT_WIDTH_MAJOR   00000004            
+[  166535.841191] /dev/input/event7: EV_ABS       ABS_MT_POSITION_X    000001d6            
+[  166535.841191] /dev/input/event7: EV_ABS       ABS_MT_POSITION_Y    0000058f            
+[  166535.841191] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166535.922390] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[  166535.922390] /dev/input/event7: EV_KEY       BTN_TOUCH            UP                  
+[  166535.922390] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166536.108008] /dev/input/event3: EV_ABS       ABS_X                000000a0            
+[  166536.108008] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            
+[  166536.130265] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   0000d6db            
+[  166536.130265] /dev/input/event7: EV_KEY       BTN_TOUCH            DOWN                
+[  166536.130265] /dev/input/event7: EV_ABS       ABS_MT_POSITION_X    00000255            
+[  166536.130265] /dev/input/event7: EV_ABS       ABS_MT_POSITION_Y    00000591            
+[  166536.130265] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166536.236546] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[  166536.236546] /dev/input/event7: EV_KEY       BTN_TOUCH            UP                  
+[  166536.236546] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166536.411514] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   0000d6dc            
+[  166536.411514] /dev/input/event7: EV_KEY       BTN_TOUCH            DOWN                
+[  166536.411514] /dev/input/event7: EV_ABS       ABS_MT_WIDTH_MAJOR   00000005            
+[  166536.411514] /dev/input/event7: EV_ABS       ABS_MT_POSITION_X    00000287            
+[  166536.411514] /dev/input/event7: EV_ABS       ABS_MT_POSITION_Y    00000531            
+[  166536.411514] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166536.534166] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[  166536.534166] /dev/input/event7: EV_KEY       BTN_TOUCH            UP                  
+[  166536.534166] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166536.606811] /dev/input/event3: EV_ABS       ABS_X                000000a3            
+[  166536.606811] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            
+[  166536.717084] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   0000d6dd            
+[  166536.717084] /dev/input/event7: EV_KEY       BTN_TOUCH            DOWN                
+[  166536.717084] /dev/input/event7: EV_ABS       ABS_MT_POSITION_X    00000237            
+[  166536.717084] /dev/input/event7: EV_ABS       ABS_MT_POSITION_Y    000004c2            
+[  166536.717084] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166536.806769] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[  166536.806769] /dev/input/event7: EV_KEY       BTN_TOUCH            UP                  
+[  166536.806769] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166536.973269] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   0000d6de            
+[  166536.973269] /dev/input/event7: EV_KEY       BTN_TOUCH            DOWN                
+[  166536.973269] /dev/input/event7: EV_ABS       ABS_MT_POSITION_X    000001bc            
+[  166536.973269] /dev/input/event7: EV_ABS       ABS_MT_POSITION_Y    00000512            
+[  166536.973269] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166537.071221] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[  166537.071221] /dev/input/event7: EV_KEY       BTN_TOUCH            UP                  
+[  166537.071221] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166537.106808] /dev/input/event3: EV_ABS       ABS_X                0000009f            
+[  166537.106808] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            
+[  166537.229339] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   0000d6df            
+[  166537.229339] /dev/input/event7: EV_KEY       BTN_TOUCH            DOWN                
+[  166537.229339] /dev/input/event7: EV_ABS       ABS_MT_WIDTH_MAJOR   00000004            
+[  166537.229339] /dev/input/event7: EV_ABS       ABS_MT_POSITION_X    000001b2            
+[  166537.229339] /dev/input/event7: EV_ABS       ABS_MT_POSITION_Y    00000593            
+[  166537.229339] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166537.352184] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[  166537.352184] /dev/input/event7: EV_KEY       BTN_TOUCH            UP                  
+[  166537.352184] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166537.526840] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   0000d6e0            
+[  166537.526840] /dev/input/event7: EV_KEY       BTN_TOUCH            DOWN                
+[  166537.526840] /dev/input/event7: EV_ABS       ABS_MT_POSITION_X    00000245            
+[  166537.526840] /dev/input/event7: EV_ABS       ABS_MT_POSITION_Y    000005a9            
+[  166537.526840] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166537.607544] /dev/input/event3: EV_ABS       ABS_X                000000a0            
+[  166537.607544] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            
+[  166537.657918] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[  166537.657918] /dev/input/event7: EV_KEY       BTN_TOUCH            UP                  
+[  166537.657918] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166537.898852] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   0000d6e1            
+[  166537.898852] /dev/input/event7: EV_KEY       BTN_TOUCH            DOWN                
+[  166537.898852] /dev/input/event7: EV_ABS       ABS_MT_POSITION_X    00000296            
+[  166537.898852] /dev/input/event7: EV_ABS       ABS_MT_POSITION_Y    00000532            
+[  166537.898852] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166538.038050] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[  166538.038050] /dev/input/event7: EV_KEY       BTN_TOUCH            UP                  
+[  166538.038050] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166538.106826] /dev/input/event3: EV_ABS       ABS_X                0000009f            
+[  166538.106826] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            
+[  166538.212782] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   0000d6e2            
+[  166538.212782] /dev/input/event7: EV_KEY       BTN_TOUCH            DOWN                
+[  166538.212782] /dev/input/event7: EV_ABS       ABS_MT_POSITION_X    00000249            
+[  166538.212782] /dev/input/event7: EV_ABS       ABS_MT_POSITION_Y    000004d0            
+[  166538.212782] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166538.319033] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[  166538.319033] /dev/input/event7: EV_KEY       BTN_TOUCH            UP                  
+[  166538.319033] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166538.501981] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   0000d6e3            
+[  166538.501981] /dev/input/event7: EV_KEY       BTN_TOUCH            DOWN                
+[  166538.501981] /dev/input/event7: EV_ABS       ABS_MT_WIDTH_MAJOR   00000005            
+[  166538.501981] /dev/input/event7: EV_ABS       ABS_MT_POSITION_X    000001ac            
+[  166538.501981] /dev/input/event7: EV_ABS       ABS_MT_POSITION_Y    00000510            
+[  166538.501981] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166538.608317] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[  166538.608317] /dev/input/event7: EV_KEY       BTN_TOUCH            UP                  
+[  166538.608317] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166538.616505] /dev/input/event3: EV_ABS       ABS_X                0000009c            
+[  166538.616505] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            
+[  166538.758167] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   0000d6e4            
+[  166538.758167] /dev/input/event7: EV_KEY       BTN_TOUCH            DOWN                
+[  166538.758167] /dev/input/event7: EV_ABS       ABS_MT_WIDTH_MAJOR   00000004            
+[  166538.758167] /dev/input/event7: EV_ABS       ABS_MT_POSITION_X    000001b6            
+[  166538.758167] /dev/input/event7: EV_ABS       ABS_MT_POSITION_Y    0000058d            
+[  166538.758167] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166538.897592] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[  166538.897592] /dev/input/event7: EV_KEY       BTN_TOUCH            UP                  
+[  166538.897592] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166539.105445] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   0000d6e5            
+[  166539.105445] /dev/input/event7: EV_KEY       BTN_TOUCH            DOWN                
+[  166539.105445] /dev/input/event7: EV_ABS       ABS_MT_WIDTH_MAJOR   00000005            
+[  166539.105445] /dev/input/event7: EV_ABS       ABS_MT_POSITION_X    0000024c            
+[  166539.105445] /dev/input/event7: EV_ABS       ABS_MT_POSITION_Y    00000590            
+[  166539.105445] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166539.244741] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[  166539.244741] /dev/input/event7: EV_KEY       BTN_TOUCH            UP                  
+[  166539.244741] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166539.485586] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   0000d6e6            
+[  166539.485586] /dev/input/event7: EV_KEY       BTN_TOUCH            DOWN                
+[  166539.485586] /dev/input/event7: EV_ABS       ABS_MT_POSITION_X    0000028f            
+[  166539.485586] /dev/input/event7: EV_ABS       ABS_MT_POSITION_Y    0000052e            
+[  166539.485586] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166539.624858] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[  166539.624858] /dev/input/event7: EV_KEY       BTN_TOUCH            UP                  
+[  166539.624858] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166539.807911] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   0000d6e7            
+[  166539.807911] /dev/input/event7: EV_KEY       BTN_TOUCH            DOWN                
+[  166539.807911] /dev/input/event7: EV_ABS       ABS_MT_POSITION_X    00000236            
+[  166539.807911] /dev/input/event7: EV_ABS       ABS_MT_POSITION_Y    000004cc            
+[  166539.807911] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166539.897654] /dev/input/event7: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[  166539.897654] /dev/input/event7: EV_KEY       BTN_TOUCH            UP                  
+[  166539.897654] /dev/input/event7: EV_SYN       SYN_REPORT           00000000            
+[  166540.117387] /dev/input/event3: EV_ABS       ABS_X                000000a1            
+[  166540.117387] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            
+[  166540.617796] /dev/input/event3: EV_ABS       ABS_X                000000c1            
+[  166540.617796] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            
+[  166541.120758] /dev/input/event3: EV_ABS       ABS_X                000000c3            
+[  166541.120758] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            
